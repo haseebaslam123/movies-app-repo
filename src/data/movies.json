@@ -1,0 +1,326 @@
+{
+	"movies": [
+		{
+			"id": 603,
+			"title": "The Matrix",
+			"release_date": "1999-03-31",
+			"runtime": 136,
+			"genres": [{"id": 28, "name": "Action"}, {"id": 878, "name": "Science Fiction"}],
+			"vote_average": 8.2,
+			"popularity": 90,
+			"overview": "A computer hacker learns the true nature of his reality and his role in the war against its controllers.",
+			"poster_path": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+			"backdrop_path": "https://image.tmdb.org/t/p/w780/7u3pxc0K1wx32IleAkLv78MKgrw.jpg",
+			"cast": [
+				{"cast_id": 1, "name": "Keanu Reeves", "character": "Neo", "profile_path": "https://image.tmdb.org/t/p/w185/bOlYWhVuOiU6azC4Bw6zlXZ5QTC.jpg"},
+				{"cast_id": 2, "name": "Laurence Fishburne", "character": "Morpheus", "profile_path": "https://image.tmdb.org/t/p/w185/3ERe2oS01C9vrLpzjAU6YewsGmm.jpg"}
+			],
+			"crew": [
+				{"job": "Director", "name": "Lana Wachowski"}
+			],
+			"videos": [
+				{"type": "Trailer", "site": "YouTube", "key": "m8e-FF8MsqU"}
+			],
+			"images": [
+				{"file_path": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg"}
+			],
+			"recommendations": [155, 27205]
+		},
+		{
+			"id": 155,
+			"title": "The Dark Knight",
+			"release_date": "2008-07-16",
+			"runtime": 152,
+			"genres": [{"id": 28, "name": "Action"}, {"id": 80, "name": "Crime"}],
+			"vote_average": 8.5,
+			"popularity": 95,
+			"overview": "Batman sets out to dismantle the remaining criminal organizations that plague the streets.",
+			"poster_path": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+			"backdrop_path": "https://image.tmdb.org/t/p/w780/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+			"cast": [
+				{"cast_id": 3, "name": "Christian Bale", "character": "Bruce Wayne / Batman", "profile_path": "https://image.tmdb.org/t/p/w185/qCpZn2e3dimwbryLnqxZuI88PTi.jpg"}
+			],
+			"crew": [
+				{"job": "Director", "name": "Christopher Nolan"}
+			],
+			"videos": [
+				{"type": "Trailer", "site": "YouTube", "key": "EXeTwQWrcwY"}
+			],
+			"images": [
+				{"file_path": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"}
+			],
+			"recommendations": [603, 27205]
+		},
+		{
+			"id": 27205,
+			"title": "Inception",
+			"release_date": "2010-07-15",
+			"runtime": 148,
+			"genres": [{"id": 28, "name": "Action"}, {"id": 878, "name": "Science Fiction"}],
+			"vote_average": 8.3,
+			"popularity": 92,
+			"overview": "A thief who steals corporate secrets through use of dream-sharing technology is given the inverse task of planting an idea.",
+			"poster_path": "https://image.tmdb.org/t/p/w500/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg",
+			"backdrop_path": "https://image.tmdb.org/t/p/w780/s3TBrRGB1iav7gFOCNx3H31MoES.jpg",
+			"cast": [
+				{"cast_id": 4, "name": "Leonardo DiCaprio", "character": "Cobb", "profile_path": "https://image.tmdb.org/t/p/w185/A85WIRIKVsD2DeUSc8wQ4fOKc4e.jpg"}
+			],
+			"crew": [
+				{"job": "Director", "name": "Christopher Nolan"}
+			],
+			"videos": [
+				{"type": "Trailer", "site": "YouTube", "key": "YoHD9XEInc0"}
+			],
+			"images": [
+				{"file_path": "https://image.tmdb.org/t/p/w500/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg"}
+			],
+			"recommendations": [603, 155]
+		},
+		{
+			"id": 299534,
+			"title": "Avengers: Endgame",
+			"release_date": "2019-04-24",
+			"runtime": 181,
+			"genres": [{"id": 28, "name": "Action"}, {"id": 12, "name": "Adventure"}],
+			"vote_average": 8.3,
+			"popularity": 98,
+			"overview": "The Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+			"poster_path": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+			"backdrop_path": "https://image.tmdb.org/t/p/w780/orjiB3oUIsyz60hoEqkiGpy5CeO.jpg",
+			"cast": [],
+			"crew": [{"job":"Director","name":"Anthony Russo"}],
+			"videos": [{"type":"Trailer","site":"YouTube","key":"TcMBFSGVi1c"}],
+			"images": [{"file_path":"https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg"}],
+			"recommendations": [603, 155]
+		},
+		{
+			"id": 238,
+			"title": "The Godfather",
+			"release_date": "1972-03-14",
+			"runtime": 175,
+			"genres": [{"id": 80, "name": "Crime"}, {"id": 18, "name": "Drama"}],
+			"vote_average": 8.7,
+			"popularity": 85,
+			"overview": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+			"poster_path": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+			"backdrop_path": "https://image.tmdb.org/t/p/w780/6xKCYgH16UuwEGAyroLU6p8HLIn.jpg",
+			"cast": [],
+			"crew": [{"job":"Director","name":"Francis Ford Coppola"}],
+			"videos": [{"type":"Trailer","site":"YouTube","key":"UaVTIH8mujA"}],
+			"images": [{"file_path":"https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg"}],
+			"recommendations": [155, 27205]
+		},
+		{
+			"id": 680,
+			"title": "Pulp Fiction",
+			"release_date": "1994-09-10",
+			"runtime": 154,
+			"genres": [{"id": 80, "name": "Crime"}, {"id": 53, "name": "Thriller"}],
+			"vote_average": 8.5,
+			"popularity": 82,
+			"overview": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+			"poster_path": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+			"backdrop_path": "https://image.tmdb.org/t/p/w780/tHbMIIF51rguMNSastqoQwR0sBs.jpg",
+			"videos": [{"type":"Trailer","site":"YouTube","key":"s7EdQ4FqbhY"}],
+			"images": [{"file_path":"https://image.tmdb.org/t/p/w500/dM2w364MScsjFf8pfMbaWUcWrR.jpg"}],
+			"recommendations": [238, 155]
+		},
+		{
+			"id": 13,
+			"title": "Forrest Gump",
+			"release_date": "1994-06-23",
+			"runtime": 142,
+			"genres": [{"id": 35, "name": "Comedy"}, {"id": 18, "name": "Drama"}],
+			"vote_average": 8.4,
+			"popularity": 86,
+			"overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events.",
+			"poster_path": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+			"backdrop_path": "https://image.tmdb.org/t/p/w780/npt5h64r1K3VkOqkkpFmS6r30Yy.jpg",
+			"videos": [{"type":"Trailer","site":"YouTube","key":"bLvqoHBptjg"}],
+			"images": [{"file_path":"https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg"}],
+			"recommendations": [680, 238]
+		},
+		{
+			"id": 424,
+			"title": "Schindler's List",
+			"release_date": "1993-11-30",
+			"runtime": 195,
+			"genres": [{"id": 18, "name": "Drama"}, {"id": 36, "name": "History"}],
+			"vote_average": 8.6,
+			"popularity": 70,
+			"overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis.",
+			"poster_path": "https://image.tmdb.org/t/p/w500/c8Ass7acuOe4za6DhSattE359gr.jpg",
+			"backdrop_path": "https://image.tmdb.org/t/p/w780/loRmRzQXa2Mnd2nebCE5Z4eS1K6.jpg",
+			"videos": [{"type":"Trailer","site":"YouTube","key":"mxphAlJID9U"}],
+			"images": [{"file_path":"https://image.tmdb.org/t/p/w500/c8Ass7acuOe4za6DhSattE359gr.jpg"}],
+			"recommendations": [13, 680]
+		},
+		{
+			"id": 122,
+			"title": "The Lord of the Rings: The Return of the King",
+			"release_date": "2003-12-01",
+			"runtime": 201,
+			"genres": [{"id": 12, "name": "Adventure"}, {"id": 14, "name": "Fantasy"}],
+			"vote_average": 8.5,
+			"popularity": 92,
+			"overview": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+			"poster_path": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+			"backdrop_path": "https://image.tmdb.org/t/p/w780/8BPZO0Bf8TeAy8znF43z8soK3ys.jpg",
+			"videos": [{"type":"Trailer","site":"YouTube","key":"y2rYRu8UWVQ"}],
+			"images": [{"file_path":"https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg"}],
+			"recommendations": [603, 299534]
+		},
+		{
+			"id": 769,
+			"title": "Goodfellas",
+			"release_date": "1990-09-12",
+			"runtime": 146,
+			"genres": [{"id": 80, "name": "Crime"}, {"id": 18, "name": "Drama"}],
+			"vote_average": 8.4,
+			"popularity": 68,
+			"overview": "The story of Henry Hill and his life in the mob.",
+			"poster_path": "https://image.tmdb.org/t/p/w500/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+			"backdrop_path": "https://image.tmdb.org/t/p/w780/2bXbqYdUdNVa8VIWXVfclP2ICtT.jpg",
+			"videos": [{"type":"Trailer","site":"YouTube","key":"qo5jJpHtI1Y"}],
+			"images": [{"file_path":"https://image.tmdb.org/t/p/w500/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg"}],
+			"recommendations": [238, 680]
+		},
+		{
+			"id": 603692,
+			"title": "John Wick: Chapter 4",
+			"release_date": "2023-03-22",
+			"runtime": 169,
+			"genres": [{"id": 28, "name": "Action"}, {"id": 53, "name": "Thriller"}],
+			"vote_average": 8.0,
+			"popularity": 88,
+			"overview": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table.",
+			"poster_path": "https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+			"backdrop_path": "https://image.tmdb.org/t/p/w780/h8gHn0OzBoaefsYseUByqsmEDMY.jpg",
+			"videos": [{"type":"Trailer","site":"YouTube","key":"qEVUtrk8_B4"}],
+			"images": [{"file_path":"https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg"}],
+			"recommendations": [603, 299534]
+		},
+		{
+			"id": 299536,
+			"title": "Avengers: Infinity War",
+			"release_date": "2018-04-25",
+			"runtime": 149,
+			"genres": [{"id": 28, "name": "Action"}, {"id": 12, "name": "Adventure"}],
+			"vote_average": 8.3,
+			"popularity": 94,
+			"overview": "Iron Man, Thor and the rest of the Avengers unite to battle their most powerful enemy yet — the evil Thanos.",
+			"poster_path": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+			"backdrop_path": "https://image.tmdb.org/t/p/w780/bOGkgRGdhrBYJSLpXaxhXVstddV.jpg",
+			"videos": [{"type":"Trailer","site":"YouTube","key":"6ZfuNTqbHE8"}],
+			"images": [{"file_path":"https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"}],
+			"recommendations": [299534, 122]
+		},
+		{
+			"id": 60308,
+			"title": "The Social Network",
+			"release_date": "2010-10-01",
+			"runtime": 120,
+			"genres": [{"id": 18, "name": "Drama"}],
+			"vote_average": 7.8,
+			"popularity": 75,
+			"overview": "The story of the founders of Facebook and the ensuing legal battles.",
+			"poster_path": "https://image.tmdb.org/t/p/w500/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+			"backdrop_path": "https://image.tmdb.org/t/p/w780/ok5Wh8385Kgblq9MSU4VGvazeMH.jpg",
+			"videos": [{"type":"Trailer","site":"YouTube","key":"lB95KLmpLR4"}],
+			"images": [{"file_path":"https://image.tmdb.org/t/p/w500/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg"}],
+			"recommendations": [238, 680]
+		},
+		{
+			"id": 604,
+			"title": "The Matrix Reloaded",
+			"release_date": "2003-05-15",
+			"runtime": 138,
+			"genres": [{"id": 28, "name": "Action"}, {"id": 878, "name": "Science Fiction"}],
+			"vote_average": 7.0,
+			"popularity": 78,
+			"overview": "Neo and the rebel leaders estimate that they have 72 hours until 250,000 probes discover Zion and destroy it.",
+			"poster_path": "https://image.tmdb.org/t/p/w500/9TGHDvWrqKBzwDxDodHYXEmOE6J.jpg",
+			"backdrop_path": "https://image.tmdb.org/t/p/w780/9TGHDvWrqKBzwDxDodHYXEmOE6J.jpg",
+			"videos": [{"type":"Trailer","site":"YouTube","key":"kYzz0FSgpSU"}],
+			"images": [{"file_path":"https://image.tmdb.org/t/p/w500/9TGHDvWrqKBzwDxDodHYXEmOE6J.jpg"}],
+			"recommendations": [603692, 299536]
+		}
+		,
+		{
+			"id": 990001,
+			"title": "Galactic Odyssey",
+			"release_date": "2026-02-15",
+			"runtime": 130,
+			"genres": [{"id": 12, "name": "Adventure"}, {"id": 878, "name": "Science Fiction"}],
+			"vote_average": null,
+			"popularity": 50,
+			"overview": "A crew sets out to chart a newly discovered wormhole on the fringe of space.",
+			"poster_path": "https://picsum.photos/id/1011/800/1200",
+			"backdrop_path": "https://picsum.photos/id/1011/1600/900",
+			"videos": [],
+			"images": [{"file_path":"https://picsum.photos/id/1011/800/1200"}],
+			"recommendations": []
+		},
+		{
+			"id": 990002,
+			"title": "The Last Expedition",
+			"release_date": "2026-06-01",
+			"runtime": 118,
+			"genres": [{"id": 12, "name": "Adventure"}, {"id": 53, "name": "Thriller"}],
+			"vote_average": null,
+			"popularity": 47,
+			"overview": "Explorers venture into an uncharted glacier cave system as a storm approaches.",
+			"poster_path": "https://picsum.photos/id/1002/800/1200",
+			"backdrop_path": "https://picsum.photos/id/1002/1600/900",
+			"videos": [],
+			"images": [{"file_path":"https://picsum.photos/id/1002/800/1200"}],
+			"recommendations": []
+		},
+		{
+			"id": 990003,
+			"title": "City of Echoes",
+			"release_date": "2026-11-20",
+			"runtime": 105,
+			"genres": [{"id": 18, "name": "Drama"}, {"id": 9648, "name": "Mystery"}],
+			"vote_average": null,
+			"popularity": 44,
+			"overview": "A journalist uncovers a decades-old secret hidden in the city subway.",
+			"poster_path": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=800&auto=format&fit=crop",
+			"backdrop_path": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?q=80&w=1600&auto=format&fit=crop",
+			"videos": [],
+			"images": [{"file_path":"https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=800&auto=format&fit=crop"}],
+			"recommendations": []
+		},
+		{
+			"id": 990004,
+			"title": "Skyward",
+			"release_date": "2026-04-10",
+			"runtime": 112,
+			"genres": [{"id": 12, "name": "Adventure"}],
+			"vote_average": null,
+			"popularity": 42,
+			"overview": "A young pilot attempts a record-breaking solo flight across treacherous terrain.",
+			"poster_path": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=800&auto=format&fit=crop",
+			"backdrop_path": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=1600&auto=format&fit=crop",
+			"videos": [],
+			"images": [{"file_path":"https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=800&auto=format&fit=crop"}],
+			"recommendations": []
+		},
+		{
+			"id": 990005,
+			"title": "Aurora Station",
+			"release_date": "2026-09-05",
+			"runtime": 124,
+			"genres": [{"id": 878, "name": "Science Fiction"}],
+			"vote_average": null,
+			"popularity": 41,
+			"overview": "Scientists aboard a polar research station face an unprecedented solar event.",
+			"poster_path": "https://images.unsplash.com/photo-1470770903676-69b98201ea1c?q=80&w=800&auto=format&fit=crop",
+			"backdrop_path": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?q=80&w=1600&auto=format&fit=crop",
+			"videos": [],
+			"images": [{"file_path":"https://images.unsplash.com/photo-1470770903676-69b98201ea1c?q=80&w=800&auto=format&fit=crop"}],
+			"recommendations": []
+		}
+	]
+}
+

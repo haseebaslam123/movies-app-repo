@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	--page-bg: #0B1020;
+	--card-bg: #0F1724;
+	--text: #E6EEF5;
+	--muted: #A7B0C0;
+	--accent: #E50914;
+	--gold: #FFD166;
+	--success: #4ADE80;
+	--error: #FF6B6B;
+	--border: rgba(230,238,245,0.06);
+}
+
+html, body, #root {
+	height: 100%;
+}
+
+body {
+	font-family: theme('fontFamily.body');
+	background-color: var(--page-bg);
+	color: var(--text);
+	overflow-x: hidden;
+}
+
+.container-page {
+	@apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+}
+
+.card {
+	@apply bg-card rounded-card shadow-card border border-[color:var(--border)];
+}
+
+.chip {
+	@apply inline-flex items-center rounded-chip px-2 py-1 text-xs bg-[color:var(--border)] text-offwhite;
+}
+
+.visually-hidden {
+	position: absolute !important;
+	clip: rect(1px, 1px, 1px, 1px);
+	padding: 0 !important;
+	border: 0 !important;
+	height: 1px !important;
+	width: 1px !important;
+	overflow: hidden;
+}
+
+.shimmer {
+	background: linear-gradient(90deg, rgba(255,255,255,0.05) 25%, rgba(255,255,255,0.12) 37%, rgba(255,255,255,0.05) 63%);
+	background-size: 400% 100%;
+	animation: shimmer 1.2s ease-out infinite;
+}
+
+@keyframes shimmer {
+	0% { background-position: 100% 0; }
+	100% { background-position: -100% 0; }
+}
+
+/* Animations */
+.animate-fade-in { animation: fade-in 400ms ease-out both; }
+@keyframes fade-in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+
+.animate-slide-up { animation: slide-up 350ms ease-out both; }
+@keyframes slide-up { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+
+.card:hover { box-shadow: 0 12px 28px rgba(0,0,0,0.45); transform: translateY(-4px); transition: all 220ms ease-out; }
+.card { transition: transform 220ms ease-out, box-shadow 220ms ease-out; }
+
+/* Utility to hide native scrollbars */
+.no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+.no-scrollbar::-webkit-scrollbar { display: none; }
+
+/* Full-bleed section spanning viewport width within a centered container */
+.full-bleed { width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; }
+
